@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import 'tailwindcss/tailwind.css'
 
 export default function FirstPost() {
   return (
